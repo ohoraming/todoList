@@ -22,8 +22,7 @@
   ### [Demo](https://ohoraming.github.io/todoList/)
   
 ## 개선사항
-- 전체적인 UI 개선
-- localStorage의 null 상황 처리
+- UI 개선(체크박스 및 범주 구현 고민)
 - 기능별 함수 구현(한 함수는 하나의 기능을 맡도록 분리)
 - 함수와 변수의 naming 개선
  
@@ -31,3 +30,7 @@
 - `JavaScript`, `Bootstrap5`
 
 ## 업데이트 내역
+(v 0.0.2)
+- UI 개선 
+- localStorage의 null 상황 처리
+- 함수와 변수의 naming 일부 개선
