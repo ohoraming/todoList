@@ -24,6 +24,8 @@
 ## 개선사항
 - 전체적인 UI 개선
 - localStorage의 null 상황 처리
+- 기능별 함수 구현(한 함수는 하나의 기능을 맡도록 분리)
+- 함수와 변수의 naming 개선
  
 ## 개발환경
 - `JavaScript`, `Bootstrap5`
